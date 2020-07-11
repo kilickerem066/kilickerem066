@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ***a browser***.
 - 🤔 I’m looking for help with ***nothing right now***.
 - 💬 Ask me about ***coding, math, science, etc.***
-- 📫 How to reach me: ***Learn HTML, CSS, JS, PHP, Java, C/C++, Lua, SQL, Java, Batch***
+- 📫 How to reach me: ***Learn HTML, CSS, JS, PHP, Java, C/C++, Lua, SQL, VBScript, Batch***
