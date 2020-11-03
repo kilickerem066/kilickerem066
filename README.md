@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm **kilickerem066**, a *programmer* that lives in *Turkey*. I created *2* **repositories**, and my favorite repositories are [copy/v86](https://t.ly/T6Xb) and [CosmosOS/Cosmos](https://t.ly/wg2S).
 
-### 💻 Projects I'm working on (4)
+### 💻 Projects I'm working on (3)
 - win95keygen.py - An ultimate Windows/Office 95 key generator script
 - win7simulator - A Windows 7 simulator written in HTML, CSS and JS.
 - archinstaller - An Arch Linux installer based on Bash programming language
